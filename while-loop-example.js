@@ -12,7 +12,7 @@ var number = 1; // loop variable
 
 // even numbers
 number = 0;
-while (number <= 20) {
+while (number <= 200) {
     console.log(number);
     number = number + 2;
 }
